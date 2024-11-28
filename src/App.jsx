@@ -13,7 +13,7 @@ function App() {
 export default App;
 
 // import { Router, Route } from "react-router-dom";
-// После чего поправить ваш App компонент следующим образом
+
 
 // const App = () => <div className="App">
 //   <Router>
